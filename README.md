@@ -38,3 +38,14 @@ poetry add "uvicorn[standard]"
 ```
 uvicorn app.main:app --reload
 ```
+
+## To Do
+
+- Add jupyterlab
+- Add pandas
+- Add pandasgui
+- Add pivotchart.js
+- Add Qt3
+- Add docker compose
+- Add tests
+- Add react app to launch notebooks
